@@ -1,2 +1,3 @@
-# threejs-learning-journey
+# Three.js Learning journey
+
 Using Code Spaces to follow https://threejs-journey.xyz/
